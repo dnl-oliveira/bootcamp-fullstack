@@ -1,0 +1,12 @@
+(✓) Instalar VSCode de forma local, descompactando o .zip - [https://code.visualstudio.com/download#](https://code.visualstudio.com/download#)
+(✓) Habilitar o portable mode - [https://code.visualstudio.com/docs/editor/portable](https://code.visualstudio.com/docs/editor/portable)
+(✓) Abrir o VSCode nesta pasta
+(✓) Navegar por algumas funcionalidades
+(✓) Baixar e instalar fonte Fira Code - [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+
+(✓) Instalar as seguintes extensões
+- (✓) Winter is Coming Theme
+- (✓) vscode-icons
+- (✓) Debugger for Chrome
+- (✓) Prettier
+- (✓) Color Highlight
