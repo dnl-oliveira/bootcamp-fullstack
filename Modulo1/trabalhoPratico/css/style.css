@@ -1,0 +1,60 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+label {
+  color: midnightblue;
+  font-size: large;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+.input-content {
+  display: flex;
+  flex-direction: column;
+  align-self: start;
+
+  margin: 10px 40px 30px 40px;
+  font-weight: 700;
+}
+.input-content input {
+  width: 300px;
+  margin-top: 20px;
+  font-size: larger;
+}
+
+#inputRed {
+  margin-left: 25px;
+}
+
+#inputBlue {
+  margin-left: 60px;
+}
+#inputGreen {
+  margin-left: 50px;
+}
+
+#valueRed,
+#valueGreen,
+#valueBlue {
+  margin-left: 10px;
+  width: 45px;
+  background-color: white;
+  color: midnightblue;
+  padding: 3px;
+  font-weight: 600;
+}
+.inputActive {
+  background-color: #0001;
+}
+
+.square {
+  width: 120px;
+  height: 120px;
+  background-color: rgb(0, 0, 0);
+  border: 2px solid midnightblue;
+}
