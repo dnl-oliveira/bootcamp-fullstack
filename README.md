@@ -63,7 +63,7 @@
 ###### Atividades entregues
 
 - [x] [Trabalho Prático 1](/Modulo1/trabalhoPratico)
-- [] Desafio Módulo 1
+- [x] [Desafio Módulo 1](/Modulo1/desafio)
 - [] Trabalho Prático 2
 - [] Desafio Módulo 2
 - [] Trabalho Prático 3
