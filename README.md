@@ -75,3 +75,5 @@
 <h2> Duração do Bootcamp :clock1: </h2>
 
 Cerca de 2 meses e meio, 148 horas.
+
+DESCONTO10OFF
